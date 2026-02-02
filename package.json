@@ -1,0 +1,8 @@
+{
+  "name": "ideapool",
+  "version": "1.0.0",
+  "dependencies": {
+    "firebase": "^10.7.0",
+    "react-router-dom": "^6.20.0"
+  }
+}
